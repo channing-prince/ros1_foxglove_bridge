@@ -1,0 +1,9 @@
+<library path="lib/libwebsocket_bridge_nodelet">
+    <class name="websocket_bridge/websocket_bridge_nodelet"
+           type="websocket_bridge::WebsocketBridge"
+           base_class_type="nodelet::Nodelet">
+        <description>
+            Websocket bridge nodelet.
+        </description>
+    </class>
+</library>

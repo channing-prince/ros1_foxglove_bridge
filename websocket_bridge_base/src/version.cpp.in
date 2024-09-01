@@ -1,0 +1,9 @@
+#include <websocket_bridge/websocket_bridge.hpp>
+
+namespace websocket {
+
+const char WEBSOCKET_BRIDGE_VERSION[] = "@WEBSOCKET_BRIDGE_VERSION@";
+
+const char WEBSOCKET_BRIDGE_GIT_HASH[] = "@WEBSOCKET_BRIDGE_GIT_HASH@";
+
+}  // namespace websocket
